@@ -1,5 +1,7 @@
 # 🌿 Marigold Trail – Village Treasure Hunt Adventure Game
 
+![Game](game.png)
+
 **Follow the clues. Brave the unknown. Find the lost gold.**
 
 ## 📖 About the Project
