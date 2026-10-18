@@ -82,8 +82,3 @@ git clone https://github.com/YOUR-USERNAME/marigold-trail.git
 cd marigold-trail
 ```
 
-Open the project folder in VS Code and follow the applicable run instructions.
-
-## 🌐 Live Demo   [https://marigold-trail-game.vercel.app/](url)
-
-**Live Game:** Add your deployed Vercel URL here.
